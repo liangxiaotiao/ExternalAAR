@@ -26,6 +26,6 @@ GrabLink-SDK
 > 上传用户和KEY
 
 ```
-账户: everonetxl
+账户: xxxxx
 KEY: 请自行到bintray用户信息中自行获取
 ```
